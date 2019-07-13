@@ -1,0 +1,5 @@
+C:\Users\sabad\Source\repos\Books\Books.Entities\bin\Debug\Books.Entities.dll
+C:\Users\sabad\Source\repos\Books\Books.Entities\bin\Debug\Books.Entities.pdb
+C:\Users\sabad\Source\repos\Books\Books.Entities\obj\Debug\Books.Entities.csproj.CoreCompileInputs.cache
+C:\Users\sabad\Source\repos\Books\Books.Entities\obj\Debug\Books.Entities.dll
+C:\Users\sabad\Source\repos\Books\Books.Entities\obj\Debug\Books.Entities.pdb
